@@ -1,2 +1,2 @@
-# Stock-Prediction-
-depp learning course final project
+# Stock-Prediction
+deep learning course final project
